@@ -35,4 +35,4 @@ Can't commit to coming regularly? That's okay! Come tell us what is happening wi
 ### Official websites: 
 * [General Summary of the Board](https://www.marinhhs.org/boards/marin-county-mental-health-board)
 * [This is a list of current board members](http://apps.marincounty.org/bosboardsandcomm/mbrlistpublic.aspx?BrdID=53&return=default.aspx) 
-* [This link has the board's agenda archive in the tabs on the right](http://apps.marincounty.org/bosboardsandcomm/boardpage.aspx?BrdID=53&return=default.aspx)
+* [This link has the board's agenda archive in the tabs on the right, as well as other information such as bylaws](http://apps.marincounty.org/bosboardsandcomm/boardpage.aspx?BrdID=53&return=default.aspx)
