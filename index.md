@@ -58,3 +58,37 @@ Para aquellos que hablan español, estas personas pueden ser capaces de ayudar p
 
 ### Official websites:
 * [Behavioral Health Recovery Services](https://www.marinhhs.org/behavioral-health-recovery-services)
+
+## SF Marin Food Bank
+
+[Find food](https://foodlocator.sfmfoodbank.org/)
+You can get assistance to sign up for CalFresh (formerly known as food stamps) here.
+
+### 211
+If you need food immediately, you may be eligible to receive a three-day emergency supply of shelf-stable food by dialling 211 on any phone. The number is toll-free. You should mention to the operatior where you are, and that you are looking for the three-day supply of food. I have not used this service.
+
+
+### Websites:
+
+[SF Marin Food Bank](https://www.sfmfoodbank.org/find-food/)
+
+## St Vincent De Paul Society
+
+Open **6:30am to 1pm**. Breakfast until 10:00am, midday meal 11am-1pm. You can go back for "seconds" and get a "to go" meal. Clear your tray after eating.
+
+Location: [820 B Street in downtown San Rafael](https://www.google.com/maps/place/820+B+St,+San+Rafael,+CA+94901/@37.9717015,-122.5297347,17.06z/data=!4m13!1m7!3m6!1s0x808599fbd0f542b3:0x8eb00187af567c5e!2s820+B+St,+San+Rafael,+CA+94901!3b1!8m2!3d37.9717033!4d-122.5294231!3m4!1s0x808599fbd0f542b3:0x8eb00187af567c5e!8m2!3d37.9717033!4d-122.5294231), between 2nd and 3rd Streets.
+
+### Websites:
+* [Vinnies](https://www.vinnies.org/need-help/hungry/)
+
+## Enterprise Resource Center 415-457-4554
+
+Don't want to jump in to the deep end with calling a mental health professional? Join other consumers at the Enterprise Resource Center. Call the phone number above and ask how you can join in.
+
+### Address
+[3270 Kerner Blvd. Suite C, San Rafael, CA  94901](https://www.google.com/maps/place/3270+Kerner+Blvd+c,+San+Rafael,+CA+94901/@37.9610571,-122.5036436,17z/data=!3m1!4b1!4m5!3m4!1s0x80859a30cc550911:0xb23b8d7f43423a08!8m2!3d37.9610571!4d-122.5014549)
+
+### Websites
+* [Community Action Marin](http://www.camentalhealth.net/index.html) runs the resource center.
+
+
