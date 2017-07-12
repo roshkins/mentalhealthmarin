@@ -37,22 +37,22 @@ Can't commit to coming regularly? That's okay! Come tell us what is happening wi
 * [This is a list of current board members](http://apps.marincounty.org/bosboardsandcomm/mbrlistpublic.aspx?BrdID=53&return=default.aspx) 
 * [This link has the board's agenda archive in the tabs on the right, as well as other information such as bylaws](http://apps.marincounty.org/bosboardsandcomm/boardpage.aspx?BrdID=53&return=default.aspx)
 
-## BHRS Access Line (888) 818-1115
+## BHRS Access Line [(888) 818-1115](tel:+18888181115)
 This is the first step you should take if you need mental health services. If you have private insurance, Y=you may get services more quickly if you look at the back of your insurance card and call the 24/7 nurseline or similar that is listed. Otherwise, the Access Line can help you locate resources through your insurance and through the county. 
 
 8am-5pm is when someone is available to pickup the phone immediately.
 Answering service between 5pm to 8am, but there is always someone available to respond day or night. I got this information by calling the Access Line.
 
 
-## Crisis Stabilization Unit (415) 473-6666
+## Crisis Stabilization Unit [(415) 473-6666](tel:+14154736666)
 
 This was formerly called Psychiatric Emergency Services. This is a physical location at Marin General. Use this if you are in crisis and need therapy or other support now. They can help over the phone or in person. From my own experience, this is better than showing up to the emergency room. 
 
-## National Suicide Prevention Lifeline (800) 273-8255
+## National Suicide Prevention Lifeline [(800) 273-8255](tel:+1800273-8255)
 
 If you are feeling suicidal, they may be able to offer some help for this moment.
 
-## Linea Nacional de Prevención del Suicidio (888) 628-9454
+## Linea Nacional de Prevención del Suicidio [(888) 628-9454](tel:+18886289454)
 Para aquellos que hablan español, estas personas pueden ser capaces de ayudar puede ser capaz de ofrecer alguna ayuda para este momento.
 
 
@@ -64,7 +64,7 @@ Para aquellos que hablan español, estas personas pueden ser capaces de ayudar p
 [Find food](https://foodlocator.sfmfoodbank.org/)
 You can get assistance to sign up for CalFresh (formerly known as food stamps) here.
 
-### 211
+### [211](tel:+211)
 If you need food immediately, you may be eligible to receive a three-day emergency supply of shelf-stable food by dialling 211 on any phone. The number is toll-free. You should mention to the operatior where you are, and that you are looking for the three-day supply of food. I have not used this service.
 
 
@@ -81,7 +81,7 @@ Location: [820 B Street in downtown San Rafael](https://www.google.com/maps/plac
 ### Websites:
 * [Vinnies](https://www.vinnies.org/need-help/hungry/)
 
-## Enterprise Resource Center 415-457-4554
+## Enterprise Resource Center [415-457-4554](tel:+14154574554)
 
 Don't want to jump in to the deep end with calling a mental health professional? Join other consumers at the Enterprise Resource Center. Call the phone number above and ask how you can join in.
 
