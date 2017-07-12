@@ -6,7 +6,7 @@ Hi there! I'm Rashi King Abramson. I've struggled with finding mental health res
 
 ## Mental Health Board
 
-The Marin Mental Health Board meets the second Tuesday of every month at [20 North San Pedro Road, San Rafael, California](https://www.google.com/maps/place/20+N+San+Pedro+Rd,+San+Rafael,+CA+94903/@37.9947628,-122.5310837,17z/data=!3m1!4b1!4m5!3m4!1s0x808599da7918cee7:0xa75611ff744abf91!8m2!3d37.994795!4d-122.529061). I am currently chair. Please email me, [roshkins@gmail.com](mailto:roshkins@gmail.com), if you have any questions or concerns about when or where we are meeting.
+The Marin Mental Health Board meets the second Tuesday of every month at [20 North San Pedro Road, San Rafael, California](https://www.google.com/maps/place/20+N+San+Pedro+Rd,+San+Rafael,+CA+94903/@37.9947628,-122.5310837,17z/data=!3m1!4b1!4m5!3m4!1s0x808599da7918cee7:0xa75611ff744abf91!8m2!3d37.994795!4d-122.529061). I am currently chair. Please email me, [roshkins@gmail.com](mailto:roshkins@gmail.com), if you have any questions or concerns about when or where the board meets.
 
  The board is currently off for **August**. The next meeting will be: **September 12, 2017**. 
  
@@ -18,6 +18,7 @@ The Marin Mental Health Board meets the second Tuesday of every month at [20 Nor
  Please apply below and attend two meetings:
  
  **[Apply Now](https://forms2.marincounty.org/lc/content/xfaforms/profiles/BoardApplicationForm.html)**
+ 
  1. Click the link above.
  2. Click "Mental Health Board" from the list to the right of the words **Board Name:** (You might need to click the words "Select One")
  3. The form will change. Fill out all the form fields.
@@ -25,7 +26,13 @@ The Marin Mental Health Board meets the second Tuesday of every month at [20 Nor
  5. Click the green Submit button at the very bottom of the page.
  6. Attend two meetings, sign your name to let us know you attended, and ask during public comment if the board has recieved your application.
  
- Thank you for applying!
-## Official websites: 
-* https://www.marinhhs.org/boards/marin-county-mental-health-board 
-* http://apps.marincounty.org/bosboardsandcomm/boardpage.aspx?BrdID=53&return=default.aspx
+Thank you for applying!
+
+### Public Comment
+Can't commit to coming regularly? That's okay! Come tell us what is happening with you and where Marin should be headed with it's mental health by coming to any meeting (see the schedule above) and talking during public comment.
+ 
+ 
+### Official websites: 
+* [General Summary of the Board](https://www.marinhhs.org/boards/marin-county-mental-health-board)
+* [This is a list of current board members](http://apps.marincounty.org/bosboardsandcomm/mbrlistpublic.aspx?BrdID=53&return=default.aspx) 
+* [This link has the board's agenda archive in the tabs on the right](http://apps.marincounty.org/bosboardsandcomm/boardpage.aspx?BrdID=53&return=default.aspx)
