@@ -10,6 +10,8 @@ The Marin Mental Health Board meets the second Tuesday of every month at [20 Nor
 
  The board is currently off for **August**. The next meeting will be: **September 12, 2017**. 
  
+ [Add all of our upcoming meetings to your calendar by clicking here](https://calendar.google.com/calendar/ical/r9pcb2940le3ma3jigomsmd52k%40group.calendar.google.com/public/basic.ics)
+ 
  See all of the boards meetings! You may have to click "Look for more" a few times. I update this myself, so it may be out of date, but it should usually be correct.
  <iframe src="https://calendar.google.com/calendar/embed?showNav=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;mode=AGENDA&amp;height=600&amp;wkst=1&amp;bgcolor=%2333ff33&amp;src=r9pcb2940le3ma3jigomsmd52k%40group.calendar.google.com&amp;color=%230F4B38&amp;ctz=America%2FLos_Angeles" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
  
