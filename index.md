@@ -17,15 +17,15 @@ The Marin Mental Health Board meets the second Tuesday of every month at [20 Nor
  
  Please apply below and attend two meetings:
  
- **[Apply Now](https://forms2.marincounty.org/lc/content/xfaforms/profiles/BoardApplicationForm.html)**
- 
- 1. Click the link above.
+ 1. Click the link below.
  2. Click "Mental Health Board" from the list to the right of the words **Board Name:** (You might need to click the words "Select One")
  3. The form will change. Fill out all the form fields.
  4. After you have filled everything out, read through the form to make sure you have filled everything out.
  5. Click the green Submit button at the very bottom of the page.
  6. Attend two meetings, sign your name to let us know you attended, and ask during public comment if the board has recieved your application.
  
+  **[Apply Now](https://forms2.marincounty.org/lc/content/xfaforms/profiles/BoardApplicationForm.html)**
+  
 Thank you for applying!
 
 ### Public Comment
