@@ -40,16 +40,21 @@ Can't commit to coming regularly? That's okay! Come tell us what is happening wi
 ## BHRS Access Line (888) 818-1115
 This is the first step you should take if you need mental health services. If you have private insurance, Y=you may get services more quickly if you look at the back of your insurance card and call the 24/7 nurseline or similar that is listed. Otherwise, the Access Line can help you locate resources through your insurance and through the county. 
 
-(415) 473-6666
-Crisis Stabilization Unit
+8am-5pm is when someone is available to pickup the phone immediately.
+Answering service between 5pm to 8am, but there is always someone available to respond day or night. I got this information by calling the Access Line.
 
-(800) 273-8255
-National Suicide
-Prevention Lifeline
 
-(888) 628-9454
-Linea Nacional de
-Prevención del Suicidio
+## Crisis Stabilization Unit (415) 473-6666
+
+This was formerly called Psychiatric Emergency Services. This is a physical location at Marin General. Use this if you are in crisis and need therapy or other support now. They can help over the phone or in person. From my own experience, this is better than showing up to the emergency room. 
+
+## National Suicide Prevention Lifeline (800) 273-8255
+
+If you are feeling suicidal, they may be able to offer some help for this moment.
+
+## Linea Nacional de Prevención del Suicidio (888) 628-9454
+Para aquellos que hablan español, estas personas pueden ser capaces de ayudar puede ser capaz de ofrecer alguna ayuda para este momento.
+
 
 ### Official websites:
 * https://www.marinhhs.org/behavioral-health-recovery-services
