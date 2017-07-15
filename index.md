@@ -1,6 +1,6 @@
 # Welcome
 
-Hi there! I'm Rashi King Abramson. I've struggled with finding mental health resources in Marin County and want to put them all in one place. If you know of a resource that I should add, email me: [roshkins@gmail.com](mailto:roshkins@gmail.com). You can also issue a pull request if you know what that is or what that means. 
+Hi there! I'm Rashi King Abramson. I've struggled with finding mental health resources in Marin County and want to put them all in one place. If you know of a resource that I should add, email me: [roshkins@gmail.com](mailto:roshkins@gmail.com). You can also [issue a pull request](https://github.com/roshkins/mentalhealthmarin/pull/new/master) if you know what that is or what that means. 
 
 # Resources
 
