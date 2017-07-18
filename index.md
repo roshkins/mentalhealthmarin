@@ -104,7 +104,7 @@ Upcoming events:
 Próximos Eventos:
 <iframe src="https://teamup.com/ksb6cf2dd4b49e8a13/" frameborder="0" width="300" height="700"></iframe>
 
-
+_I collect anonymous demographic statistics and usage information through Google Analytics to hopefully make the best website possible while requiring no effort from you_
 
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
