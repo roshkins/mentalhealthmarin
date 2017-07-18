@@ -104,6 +104,30 @@ Upcoming events:
 Próximos Eventos:
 <iframe src="https://teamup.com/ksb6cf2dd4b49e8a13/" frameborder="0" width="300" height="700"></iframe>
 
+## Traffic Court – Community Service Work
+Can't afford your traffic ticket? At the Superior Court of California in the County of Marin, you may be eligible to perform community service work instead of paying your traffic ticket if you meet certain financial qualifications. The cost of your traffic ticket is converted to community service work at a rate of $10 per hour. For example, a $250 citation can be converted to 25 hours of community service work ($250 divided by $10 per hour equals 25 hours.) To inquire about eligibility for community service work, individuals must come to the Traffic Clerk’s Office to complete a declaration regarding their household size and income. If it is determined that they are eligible to perform community service work, the clerk will provide information on how to get started.
+**Important**:
+"Community service work registration can be done without going to court. There is a $50 administrative fee which must be paid at the time of registration. When registering for community service work, the Court will determine the deadline for completion of the hours. **If the hours are not completed, or the completed and signed timesheet is not turned in to the Court by the due date**, the community service hours will be automatically converted back to bail or a monetary fine, the case will be sent to court collections, **the amount owed will be increased by a $300 civil assessment and other monetary sanctions, and the violator’s driving privileges may be affected.**"
+
+###  Traffic Clerk's Website
+* [Traffic Court – Community Service Work](http://www.marincourt.org/traffic_comm_service.htm)
+
+### Traffic Clerk's Office Address:
+Location: [Civic Center, Hall of Justice, Room C-10](https://www.google.com/maps/place/3501+Civic+Center+Dr,+San+Rafael,+CA+94903/@37.9979137,-122.5331636,17z/data=!3m1!4b1!4m5!3m4!1s0x808599d13775f037:0x58aec55b7d2b0d16!8m2!3d37.9979137!4d-122.5309749)
+[Map of Parking Options](http://www.marincourt.org/directions.htm)
+
+### Traffic Clerk's Office Hours:
+Office Hours: 8:00am - 4:00pm
+
+### Traffic Clerk's Phone Number:
+Phone: (415) 444-7180
+
+### Traffic Clerk's E-mail Address:
+Email: traffic@marincourt.org
+
+### Community Service Work Time Sheet:
+* [Community Service Work Time Sheet](http://www.marincourt.org/PDF/TR001.pdf)
+
 _I collect anonymous demographic statistics and usage information through Google Analytics to hopefully make the best website possible while requiring no effort from you_
 
 <script>
