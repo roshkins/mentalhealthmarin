@@ -8,7 +8,7 @@ Hi there! I'm Rashi King Abramson. I've struggled with finding mental health res
 
 The Marin Mental Health Board meets the second Tuesday of every month at [20 North San Pedro Road Point Reyes Room, San Rafael, California](https://www.google.com/maps/place/20+N+San+Pedro+Rd,+San+Rafael,+CA+94903/@37.9947628,-122.5310837,17z/data=!3m1!4b1!4m5!3m4!1s0x808599da7918cee7:0xa75611ff744abf91!8m2!3d37.994795!4d-122.529061). I am currently chair. Please email me, [roshkins@gmail.com](mailto:roshkins@gmail.com), if you have any questions or concerns about when or where the board meets.
 
- The board is currently off for **August**. The next meeting will be: **September 12, 2017**. 
+ The board is currently off for **August**. The next meeting will be: **September 12, 2017 at 6:00pm**. 
  
  [Add all of the upcoming meetings to your calendar by clicking here](https://calendar.google.com/calendar/ical/r9pcb2940le3ma3jigomsmd52k%40group.calendar.google.com/public/basic.ics)
  
