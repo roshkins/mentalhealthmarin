@@ -45,7 +45,7 @@ This is the first step you should take if you need mental health services. If yo
 8am-5pm is when someone is available to pickup the phone immediately.
 Answering service between 5pm to 8am, but there is always someone available to respond day or night. I got this information by calling the Access Line.
 
-## Crisis Text Line: Get help by text message. Text 'BAY' to [741741](sms://+1741741?body="BAY")
+## Crisis Text Line: Get help by text message. Text 'BAY' to [741741](sms://+741741?body=BAY)
 
 ## Crisis Stabilization Unit [(415) 473-6666](tel:+14154736666)
 
