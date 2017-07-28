@@ -93,10 +93,10 @@ Don't want to jump in to the deep end with calling a mental health professional?
 ### Websites
 * [Community Action Marin](http://www.camentalhealth.net/index.html) runs the resource center.
 
-## MARIN TRANSITION AGE YOUTH (MARIN TAY) [(415) 870-9298](tel:+14158709298)
+## MARIN TRANSITION AGE YOUTH (16-25 year olds) (MARIN TAY) [(415) 870-9298](tel:+14158709298)
 For people aged 16-25, come drop in between 1pm and 5pm, no registration required. You can call if you'd like. There's usually food and something to do, so come hang out! They can probably help you naviagte the mental health system here. Here's the address:
-615 B Street, Suite 1A
-San Rafael, CA 94901
+[615 B Street, Suite 1A  
+San Rafael, CA 94901](https://www.google.com/maps/place/615+B+St,+San+Rafael,+CA+94901/@37.9699327,-122.5324716,17z/data=!3m1!4b1!4m5!3m4!1s0x808599f941cae767:0x21443cac9e17dacb!8m2!3d37.9699327!4d-122.5302829)
 
 Upcoming events:
 <iframe src="https://teamup.com/ks5c5c9b148811b371/" frameborder="0" width="300" height="700"></iframe>
