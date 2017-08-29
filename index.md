@@ -2,6 +2,28 @@
 
 Hi there! I'm Rashi King Abramson. I've struggled with finding mental health resources in Marin County and want to put them all in one place. If you know of a resource that I should add, email me: [roshkins@gmail.com](mailto:roshkins@gmail.com). You can also [edit it directly and issue a pull request](https://github.com/roshkins/mentalhealthmarin/edit/master/index.md) if you know what that is or what that means. 
 
+I made a mailing list! Please subscribe so I can keep you updated:
+<!-- Begin MailChimp Signup Form -->
+<link href="//cdn-images.mailchimp.com/embedcode/slim-10_7.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+	#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
+	/* Add your own MailChimp form style overrides in your site stylesheet or in this style block.
+	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
+</style>
+<div id="mc_embed_signup">
+<form action="//mentalhealthmarin.us16.list-manage.com/subscribe/post?u=4d6df6ec07df7ac3db1bfb250&amp;id=b0597789a8" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+    <div id="mc_embed_signup_scroll">
+	<label for="mce-EMAIL">Subscribe to my mailing list to get updates on upcoming features!</label>
+	<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
+    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_4d6df6ec07df7ac3db1bfb250_b0597789a8" tabindex="-1" value=""></div>
+    <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+    </div>
+</form>
+</div>
+
+<!--End mc_embed_signup-->
+
 # Resources
 
 ## Mental Health Board
