@@ -1,3 +1,15 @@
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KTDQLRH');</script>
+<!-- End Google Tag Manager -->
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KTDQLRH"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
 # Welcome to [www.mentalhealthmarin.com](http://www.mentalhealthmarin.com/)
 
 Hi there! I'm Rashi King Abramson. I've struggled with finding mental health resources in Marin County and want to put them all in one place. If you know of a resource that I should add, email me: [roshkins@gmail.com](mailto:roshkins@gmail.com). You can also [edit it directly and issue a pull request](https://github.com/roshkins/mentalhealthmarin/edit/master/index.md) if you know what that is or what that means. 
